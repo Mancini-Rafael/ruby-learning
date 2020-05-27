@@ -1,0 +1,5 @@
+require 'minitest/spec'
+require 'minitest/autorun'
+require 'stringio'
+require 'o_stream_catcher'
+require 'pry'
